@@ -38,11 +38,7 @@ TOOLS USED
 Database: MYSQL Workbench
 Language: SQL
 
-![Clean Data]
-(Cafe%20Sales%20Screenshot.png)
-
-
-
+<img width="669" height="390" alt="Cafe Sales Screenshot" src="https://github.com/user-attachments/assets/d01affbc-0882-4be4-a843-8bc19d6217eb" />
 
 
 
