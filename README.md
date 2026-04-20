@@ -2,7 +2,7 @@ CAFE SALES DATA CLEANING AND TRANSFORMATION
 
    PROJECT OVERVIEW
 
-In this project, I performed a deep-clean of a "dirty" café sales dataset using MYSQL Workbench. I focused on improving data quality by addressing inconsistencies n formatting, handling missing information, and validating the dataset's unique records.
+In this project, I performed a deep-clean of a "dirty" café sales dataset using MYSQL Workbench. I focused on improving data quality by addressing inconsistencies in formatting, handling missing information, and validating the dataset's unique records.
 
 
   MY DATA CLEANING WORKFLOW
